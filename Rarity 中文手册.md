@@ -20,7 +20,7 @@
 
 其中size 包括9种：
 
-![image-20210906162937588](C:\Users\fcyj2\AppData\Roaming\Typora\typora-user-images\image-20210906162937588.png)
+![image-20210906162937588](.\image-20210906162937588.png)
 
 Base Attack Bonus: 是从角色（class），等级（level）或者是Creature Type 和 Hit Dice(Combinations thereof) 这四类。不同的角色和生物类型有不同的奖级系数。如果你的BAB达到了+6，+11或者+16,则你会获得第2，3，4次攻击机会。
 

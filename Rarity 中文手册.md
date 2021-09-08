@@ -2,6 +2,7 @@
 
 来源: https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll
 实时更新放个人主页：http://home.ustc.edu.cn/~fcyj2013/Rarity/manual.html
+欢迎有人帮忙，搬砖繁忙，日常断更。
 
 2021-9-8 更新：技能表。 2021-9-8
 

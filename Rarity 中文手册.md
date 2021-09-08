@@ -1,6 +1,9 @@
 ## Rarity 中文手册
 
 来源: https://www.d20srd.org/srd/combat/combatStatistics.htm#attackRoll
+实时更新放个人主页：http://home.ustc.edu.cn/~fcyj2013/Rarity/manual.html
+
+2021-9-8 更新：技能表。 2021-9-8
 
 懂洋文的可以自己去网页上看，这里是个人翻译版本
 

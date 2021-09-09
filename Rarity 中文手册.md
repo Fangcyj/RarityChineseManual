@@ -8,6 +8,10 @@
 
 懂洋文的可以自己去网页上看，这里是个人翻译版本
 
+2021-9-9 更新：Craft I 基本信息
+http://home.ustc.edu.cn/~fcyj2013/Rarity/CraftI.html
+
+
 ### 对战介绍
 
 #### Attack Roll （攻击骰子）

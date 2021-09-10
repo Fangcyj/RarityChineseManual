@@ -11,6 +11,9 @@
 2021-9-9 更新：Craft I 基本信息
 http://home.ustc.edu.cn/~fcyj2013/Rarity/CraftI.html
 
+2021-9-10 更新：Craft I 伤害计算，修正以及加点参考
+http://home.ustc.edu.cn/~fcyj2013/Rarity/CraftI.html
+
 
 ### 对战介绍
 

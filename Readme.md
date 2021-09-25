@@ -17,6 +17,10 @@ http://home.ustc.edu.cn/~fcyj2013/Rarity/CraftI.html
 2021-9-13 更新： Crafting 详情
 http://home.ustc.edu.cn/~fcyj2013/Rarity/Crafting.html
 
+2021-09-25 更新：最近AC只更新了一些codex,基本是DND网站上的一些数据搬了过来。
+二级市场上，proficiency = 3 的weapon最近的地板价已经到了5FTM左右。而普通的物件价格正在走低。
+可以将自己的craft都收集起来做weapon了，前两天热度似乎有所下降，gas fee降低了不少，最近又高了起来。
+
 ### 对战介绍
 
 #### Attack Roll （攻击骰子）
